@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+google-genai
+llama-index
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-llms-google-genai
+pymupdf
